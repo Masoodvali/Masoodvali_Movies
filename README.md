@@ -27,9 +27,17 @@ Langauge and Tools Used:
   7. Fragments
   8. Recyclerview
   9. Glide For Image Loading
+
+
+For API URl and JSON data of Movies:
+
+ https://developer.nytimes.com/docs/movie-reviews-api/1/overview (New York Times Movie Reviews: You may have to register to create a free API key to access the API calls)
+  
+  
   
   
   Navigation.XMl
+  
   <img width="1146" alt="Screenshot 2021-08-15 at 2 57 31 PM" src="https://user-images.githubusercontent.com/34739879/129473901-36500d6e-7496-4a91-965d-d5a8c7768cd5.png">
   
   Navigation Command:
