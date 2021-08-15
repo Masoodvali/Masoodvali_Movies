@@ -1,0 +1,53 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2021 The New York Times Company. All Rights Reserved.",
+  "has_more": true,
+  "num_results": 20,
+  "results": [
+    {
+      "display_title": "Port Authority",
+      "mpaa_rating": "R",
+      "critics_pick": 0,
+      "byline": "Kyle Turner",
+      "headline": "‘Port Authority’ Review: Two Outsiders Searching for a Place",
+      "summary_short": "A Pittsburgh runaway and a star of a Harlem vogueing ballroom connect in Danielle Lessovitz’s drama.",
+      "publication_date": "2021-06-01",
+      "opening_date": "2021-05-28",
+      "date_updated": "2021-06-01 15:35:03",
+      "link": {
+        "type": "article",
+        "url": "https://www.nytimes.com/2021/06/01/movies/port-authority-review.html",
+        "suggested_link_text": "Read the New York Times Review of Port Authority"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2021/06/02/arts/portauthority1/portauthority1-mediumThreeByTwo440.jpg",
+        "height": 140,
+        "width": 210
+      }
+    },
+    {
+      "display_title": "The Tunnel",
+      "mpaa_rating": "",
+      "critics_pick": 0,
+      "byline": "Beatrice Loayza",
+      "headline": "‘The Tunnel’ Review: Fire in the Hole",
+      "summary_short": "Painfully cliché but sufficiently diverting, this is the latest in a string of disaster movies from Norway.",
+      "publication_date": "2021-04-08",
+      "opening_date": null,
+      "date_updated": "2021-04-08 11:03:03",
+      "link": {
+        "type": "article",
+        "url": "https://www.nytimes.com/2021/04/08/movies/the-tunnel-review-fire-in-the-hole.html",
+        "suggested_link_text": "Read the New York Times Review of The Tunnel"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2021/04/06/arts/tunnel1/tunnel1-mediumThreeByTwo440.jpg",
+        "height": 140,
+        "width": 210
+      }
+    }
+
+  ]
+}

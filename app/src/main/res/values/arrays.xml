@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="movieMetaDataKey">
+        <item>Display Title:display_title</item>
+        <item>Rating:mpaa_rating</item>
+        <item>By Line:byline</item>
+        <item>HeadLine:headline</item>
+        <item>Summary Short:summary_short</item>
+        <item>Publication Date:publication_date</item>
+        <item>Opening Date:opening_date</item>
+        <item>Date Updated:date_updated</item>
+        <item>Link:link</item>
+        <item>Type:type</item>
+        <item>Suggested Link Text:suggested_link_text</item>
+        <item>Url:url</item>
+    </string-array>
+</resources>
